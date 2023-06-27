@@ -31,4 +31,3 @@ setenv("CXX","CC")
 pushenv("CRAYPE_LINK_TYPE","dynamic")
 
 whatis("Description: GSI environment on Gaea with Intel Compilers")
-
